@@ -1,0 +1,5 @@
+{
+  "name": "SumEliminate",
+  "description": "一款快节奏的数字求和消除益智游戏。选择方块以达到目标总和，并防止它们到达顶部。",
+  "requestFramePermissions": []
+}
